@@ -181,10 +181,12 @@ html {
 
 }
 
-
+#slider {
+position: relative;
+}
 .slider-img {
     width: 100%;
-    position: relative;
+    
     margin-top: 46px;
     background: url('/assets/pic/chicago.jpg') top center / cover no-repeat;
 
@@ -193,7 +195,7 @@ html {
 
 #slider .text-content {
     color: #fff;
-    bottom: 16%;
+    bottom: 0;
     position: absolute;
     margin-bottom: 32px;
     width: 100%;
