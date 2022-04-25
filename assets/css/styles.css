@@ -182,7 +182,7 @@ html {
 }
 
 
-#slider {
+.slider-img {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
