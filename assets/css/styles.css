@@ -183,6 +183,7 @@ html {
 
 
 .slider-img {
+    width: 100%;
     position: relative;
     margin-top: 46px;
     background: url('/assets/pic/chicago.jpg') top center / cover no-repeat;
